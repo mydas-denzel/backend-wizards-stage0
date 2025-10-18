@@ -10,11 +10,15 @@ git clone https://github.com/username/backend-wizards-stage0.git`
 cd backend-wizards-stage0
 ```
 ### 2. Install dependencies
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 ### 3. Run locally
-`uvicorn app:app --reload`
+```
+uvicorn app:app --reload
+```
 ### 4. Visit endpoint
-`http://127.0.0.1:8000/me`
+```http://127.0.0.1:8000/me```
 
 
 ---

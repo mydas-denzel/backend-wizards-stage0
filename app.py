@@ -33,7 +33,7 @@ async def get_profile():
         "user": {
             "email": "okungbowadenzel65@gmail.com",
             "name": "Denzel Okungbowa",
-            "stack": "Python/FastAPI, Java/SpringBoot"
+            "stack": "Python/FastAPI"
         },
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "fact": cat_fact
